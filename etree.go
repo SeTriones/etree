@@ -694,7 +694,6 @@ var xmlReplacerNormal = strings.NewReplacer(
 	"&", "&amp;",
 	"<", "&lt;",
 	">", "&gt;",
-	"'", "&apos;",
 	`"`, "&quot;",
 )
 
